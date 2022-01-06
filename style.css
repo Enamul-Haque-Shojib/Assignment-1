@@ -1,0 +1,84 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+    padding:0;
+}
+.parents{
+    display: flex;
+    justify-content:center;
+}
+.head-color{
+    color:orange;
+}
+.start-head-text{
+    border-left: 5px solid;
+    border-image: linear-gradient(red, tomato);
+    border-image-slice: 1;
+    border-style:   10px;
+    padding: 0px 0px 0px 10px;
+    margin-bottom: 0px;
+    font-weight:700 ;
+    width: 600px;
+    font-size: 60px;
+}
+.header-description{
+    width: 500px;
+    padding:100px;
+}
+.button{
+    padding:10px 25px;
+    background-color: #FF5959;
+    border-radius: 5px;
+    border: none;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+.person-image{
+    padding:100px;
+    
+}
+.person-image img{
+    width: 350px;
+    border-radius: 20px;
+}
+
+.illustrators-box{
+    width:310px;
+    height: 100%;
+    padding:0px;
+    border-radius: 20px;
+    margin:20px;
+}
+.illustrators-green-color{
+    background-color: #EDF5F6;
+    border-radius: 20px;
+    padding:25px;
+}
+.illustrators-pink-color{
+    background-color: #FFEEEE;
+    border-radius: 20px;
+    padding:25px;
+}
+.illustrators-yellow-color{
+    background-color: #FDF2D4;
+    border-radius: 20px;
+    padding:25px;
+}
+.illustrators-image img{
+    width: 140px;
+}
+.sub-head-text{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 23px;
+}
+.footer-color{
+    color: red;
+}
+.footer-font{
+    font-weight: 100;
+}
